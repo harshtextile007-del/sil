@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Product</title>
+<link rel="stylesheet" href="../style.css" />
+</head>
+<body>
+   <!-- Top Center Home Page Link -->
+  <h1><a href="../index.html">Home</a></h1>
+  <hr>
+
+  <div class="product-page">
+    <!-- Title -->
+    <h1 id="product-title" class="product-title">Product</h1>
+
+    <!-- Gallery -->
+    <div class="gallery">
+      <button class="arrow left" onclick="prevImage()">&#10094;</button>
+      <img id="mainImage" src="" alt="Product" class="main-img" />
+      <button class="arrow right" onclick="nextImage()">&#10095;</button>
+      <div id="dots" class="dots"></div>
+    </div>
+    <hr>
+
+    <!-- Colors -->
+    <div class="colors">
+      <h3>Color Options:</h3>
+      <div id="color-swatches" class="color-swatches"></div>
+    </div>
+    <hr>
+
+
+    <!-- Details -->
+    <div class="details">
+      <h3>Materials & Accessories</h3>
+      <p><strong>Thread Number:</strong> <span id="thread">-</span></p>
+      <p><strong>Button:</strong> <img id="button-img" src="" alt="Button"></p>
+      <p><strong>Chain:</strong> <img id="chain-img" src="" alt="Chain"></p>
+      <p><strong>Fabric:</strong> <span id="fabric">-</span></p>
+    </div>
+  </div>
+
+  <script>
+    // --- State ---
+    let productData = null;
+    let currentColorIndex = 0;
+    let currentImageIndex = 0;
+
+    // --- Init ---
+    const key = new URLSearchParams(window.location.search).get("product");
+    fetch("products.json")
+      .then(r => r.json())
+      .then(db => {
+        const p = db[key];
+        if (!p) {
+          document.querySelector(".product-page").innerHTML =
+            "<h1>Product not found</h1><p>Please check the link or product key.</p>";
+          return;
+        }
+        productData = p;
+
+        // Title
+        document.getElementById("product-title").textContent = p.name || key;
+
+        // Details
+        document.getElementById("thread").textContent = p.thread || "-";
+        document.getElementById("button-img").src = p.button || "";
+        document.getElementById("chain-img").src = p.chain || "";
+        document.getElementById("fabric").textContent = p.fabric || "-";
+
+        // Render colors & gallery
+        renderSwatches(p.colors || []);
+        if ((p.colors || []).length) {
+          changeColor(0); // start with first color
+        }
+      })
+      .catch(() => {
+        document.querySelector(".product-page").innerHTML =
+          "<h1>Unable to load products.json</h1>";
+      });
+
+    // --- Renderers ---
+    function renderSwatches(colors) {
+      const wrap = document.getElementById("color-swatches");
+      wrap.innerHTML = "";
+      colors.forEach((c, i) => {
+        // container for swatch
+        const swatch = document.createElement("div");
+        swatch.className = "swatch" + (i === 0 ? " active" : "");
+        swatch.addEventListener("click", () => changeColor(i));
+
+        // image
+        const img = document.createElement("img");
+        img.src = c.thumb;
+        img.alt = c.name || ("Color " + (i + 1));
+
+        // label
+        const label = document.createElement("div");
+        label.className = "swatch-label";
+        label.textContent = c.name || ("Color " + (i + 1));
+
+        swatch.appendChild(img);
+        swatch.appendChild(label);
+        wrap.appendChild(swatch);
+      });
+    }
+
+    function renderGallery(imageUrls) {
+      const main = document.getElementById("mainImage");
+      const dots = document.getElementById("dots");
+      currentImageIndex = 0;
+
+      if (!imageUrls.length) {
+        main.src = "";
+        dots.innerHTML = "<p>No images available</p>";
+        return;
+      }
+
+      main.src = imageUrls[0];
+      main.alt = (productData?.name || "Product") + " - " +
+                 (productData?.colors?.[currentColorIndex]?.name || "");
+
+      dots.innerHTML = "";
+      imageUrls.forEach((url, i) => {
+        const dot = document.createElement("span");
+        dot.className = "dot" + (i === 0 ? " active" : "");
+        dot.addEventListener("click", () => setImage(i));
+        dots.appendChild(dot);
+      });
+    }
+
+    // --- Actions ---
+    function setImage(i) {
+      currentImageIndex = i;
+      const urls = (productData.colors?.[currentColorIndex]?.images) || [];
+      if (!urls[i]) return;
+      document.getElementById("mainImage").src = urls[i];
+      document.querySelectorAll("#dots .dot").forEach((d, idx) =>
+        d.classList.toggle("active", idx === i)
+      );
+    }
+
+    function changeColor(colorIndex) {
+  currentColorIndex = colorIndex;
+  const colors = productData.colors || [];
+  const selected = colors[colorIndex];
+  if (!selected) return;
+
+  // Update title
+  const title = document.getElementById("product-title");
+  title.textContent = productData.name + (selected.name ? " (" + selected.name + ")" : "");
+
+  // Highlight swatch
+  document.querySelectorAll(".swatch")
+    .forEach((sw, idx) => sw.classList.toggle("active", idx === colorIndex));
+
+  // Rebuild gallery with this color's images
+  renderGallery(selected.images || []);
+
+  // --- Update details dynamically ---
+  document.getElementById("thread").textContent = selected.thread || productData.thread || "-";
+  document.getElementById("button-img").src = selected.button || productData.button || "";
+  document.getElementById("chain-img").src = selected.chain || productData.chain || "";
+  document.getElementById("fabric").textContent = selected.fabric || productData.fabric || "-";
+}
+
+
+    // --- Drawer (size chart) ---
+    function toggleDrawer() {
+      document.getElementById("sizeChartDrawer").classList.toggle("active");
+      document.getElementById("drawerOverlay").classList.toggle("active");
+    }
+
+    // --- Touch swipe for gallery ---
+    let startX = 0;
+    const mainImg = document.getElementById("mainImage");
+
+    mainImg.addEventListener("touchstart", e => {
+      startX = e.touches[0].clientX;
+    });
+
+    mainImg.addEventListener("touchend", e => {
+      let endX = e.changedTouches[0].clientX;
+      let diff = startX - endX;
+
+      if (Math.abs(diff) > 50) { // swipe threshold
+        if (diff > 0) {
+          nextImage();
+        } else {
+          prevImage();
+        }
+      }
+    });
+
+    // --- Arrow helpers ---
+    function nextImage() {
+      const urls = productData.colors?.[currentColorIndex]?.images || [];
+      if (!urls.length) return;
+      currentImageIndex = (currentImageIndex + 1) % urls.length;
+      setImage(currentImageIndex);
+    }
+
+    function prevImage() {
+      const urls = productData.colors?.[currentColorIndex]?.images || [];
+      if (!urls.length) return;
+      currentImageIndex = (currentImageIndex - 1 + urls.length) % urls.length;
+      setImage(currentImageIndex);
+    }
+  </script>
+</body>
+</html>

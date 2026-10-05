@@ -1,0 +1,2125 @@
+{
+
+
+
+  "vest_top": {
+    "name": "Vest Top",
+    "colors": [
+      {
+        "name": "Indigo",
+        "thumb": "https://silayibazi.in/cdn/shop/files/1718391585606.568.jpg?v=1718391883&width=1000",
+        "images": [ "https://raw.githubusercontent.com/harshtextile007-del/product-images/main/Screenshots/Vest%20Top.jpg",
+                    "https://raw.githubusercontent.com/harshtextile007-del/product-images/main/Border%20Short%20Kurti.png",
+                    "https://silayibazi.in/cdn/shop/files/1718391569862.526.jpg?v=1718391883&width=1000",
+                    "https://raw.githubusercontent.com/harshtextile007-del/product-images/main/Screenshots/Vest%20Top.jpg" ],
+        "thread": "585",
+        "button": "https://raw.githubusercontent.com/harshtextile007-del/product-images/main/Screenshots/Vest%20Top.jpg",
+        "chain": "https://github.com/harshtextile007-del/product-images/blob/main/Screenshots/Vest%20Top.jpg",
+        "fabric": "Blend"
+
+      },
+      {
+
+        "name": "Red Lotus",
+        "thumb": "https://silayibazi.in/cdn/shop/files/1718311674917.168.jpg?v=1718312171&width=1000",
+        "images": [
+          "https://silayibazi.in/cdn/shop/files/1718311742145.08.jpg?v=1718312133&width=1000",
+          "https://silayibazi.in/cdn/shop/files/1718311723163.282.jpg?v=1718312132&width=1000",
+          "https://raw.githubusercontent.com/harshtextile007-del/product-images/main/Screenshots/Vest%20Top.jpg" ],
+          "thread": "632?",
+        "button": "https://raw.githubusercontent.com/harshtextile007-del/product-images/main/Screenshots/Vest%20Top.jpg"
+
+      },
+
+      {
+        "name": "Powder Blue",
+        "thumb": "https://silayibazi.in/cdn/shop/files/0R4A8842.jpg?v=1732212837&width=1000",
+        "images": ["https://silayibazi.in/cdn/shop/files/0R4A8842.jpg?v=1732212837&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/0R4A8844.jpg?v=1732212836&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/0R4A8840.jpg?v=1732212837&width=1000",
+                   "https://raw.githubusercontent.com/harshtextile007-del/product-images/main/Screenshots/Vest%20Top.jpg" ],
+        "thread": "504",
+        "button": "https://raw.githubusercontent.com/harshtextile007-del/product-images/main/Screenshots/Vest%20Top.jpg",
+        "chain": "https://your-cdn.com/accessories/chain_vest.png",
+        "fabric": "Blend"
+
+      },
+
+
+      {
+        "name": "Pink",
+        "thumb": "https://silayibazi.in/cdn/shop/files/1732212217622.509.jpg?v=1732212336&width=1000",
+        "images": ["https://silayibazi.in/cdn/shop/files/1732212217622.509.jpg?v=1732212336&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1732212230001.934.jpg?v=1732212336&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1732212245698.289.jpg?v=1732212337&width=1000"
+                  ,
+                   "https://raw.githubusercontent.com/harshtextile007-del/product-images/main/Screenshots/Vest%20Top.jpg" ],
+        "thread": "T-145",
+        "button": "https://raw.githubusercontent.com/harshtextile007-del/product-images/main/Screenshots/Vest%20Top.jpg",
+        "chain": "https://your-cdn.com/accessories/chain_vest.png",
+        "fabric": "Blend"
+      },
+      {
+        "name": "Red Sunflower",
+        "thumb": "https://silayibazi.in/cdn/shop/files/1732212933945.423.jpg?v=1732212989&width=1000",
+        "images": ["https://silayibazi.in/cdn/shop/files/1732212933945.423.jpg?v=1732212989&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/0R4A8891.jpg?v=1732212838&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1732212952021.986.jpg?v=1732212989&width=1000"
+                 ,
+                   "https://raw.githubusercontent.com/harshtextile007-del/product-images/main/Screenshots/Vest%20Top.jpg" ],
+        "thread": "T-145",
+        "button": "https://raw.githubusercontent.com/harshtextile007-del/product-images/main/Screenshots/Vest%20Top.jpg",
+        "chain": "https://your-cdn.com/accessories/chain_vest.png",
+        "fabric": "Blend"
+      },
+      {
+        "name": "Green",
+        "thumb": "https://silayibazi.in/cdn/shop/files/1721645988218.429.jpg?v=1721646166&width=1000",
+        "images": ["https://silayibazi.in/cdn/shop/files/1721645988218.429.jpg?v=1721646166&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/IMG-20240708-WA0015.jpg?v=1720379727&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1721646005142.17.jpg?v=1721646162&width=1000"
+                  ,
+                   "https://raw.githubusercontent.com/harshtextile007-del/product-images/main/Screenshots/Vest%20Top.jpg" ],
+        "thread": "805",
+        "button": "https://raw.githubusercontent.com/harshtextile007-del/product-images/main/Screenshots/Vest%20Top.jpg",
+        "chain": "https://your-cdn.com/accessories/chain_vest.png",
+        "fabric": "Blend"
+      },
+      {
+        "name": "Lilac",
+        "thumb": "https://silayibazi.in/cdn/shop/files/1721646768290.842.jpg?v=1721646923&width=1000",
+        "images": ["https://silayibazi.in/cdn/shop/files/1721646768290.842.jpg?v=1721646923&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1721646811384.686.jpg?v=1721646928&width=1000"
+                  ,
+                   "https://raw.githubusercontent.com/harshtextile007-del/product-images/main/Screenshots/Vest%20Top.jpg" ],
+        "thread": "T-145",
+        "button": "https://raw.githubusercontent.com/harshtextile007-del/product-images/main/Screenshots/Vest%20Top.jpg",
+        "chain": "https://your-cdn.com/accessories/chain_vest.png",
+        "fabric": "Blend"
+      },
+      {
+        "name": "Black",
+        "thumb": "https://silayibazi.in/cdn/shop/files/1747232451539.313.jpg?v=1747233169&width=1000",
+        "images": ["https://silayibazi.in/cdn/shop/files/1747232451539.313.jpg?v=1747233169&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1747232466757.637.jpg?v=1747233169&width=1000"
+                  ,
+                   "https://raw.githubusercontent.com/harshtextile007-del/product-images/main/Screenshots/Vest%20Top.jpg" ],
+        "thread": "T-145",
+        "button": "https://raw.githubusercontent.com/harshtextile007-del/product-images/main/Screenshots/Vest%20Top.jpg",
+         "chain": "https://your-cdn.com/accessories/chain_vest.png",
+        "fabric": "Blend"
+      }
+
+
+
+    ]
+  },
+
+  "WaistCoat_(plain jaicket)": {
+    "name": "WaistCoat (plain jaicket)",
+    "colors": [
+       { "name": "Brown",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1754376245218.911.jpg?v=1754377554&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/1754376236834.429.jpg?v=1754377554&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1754376276115.612.jpg?v=1754377554&width=1000"
+                  ],
+         "thread": "",
+         "button": "",
+         "chain": "",
+         "fabric": ""
+       },
+
+      { "name": "Navy",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1754376325616.982.jpg?v=1754377434&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/1754376325616.982.jpg?v=1754377434&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1754376343835.014.jpg?v=1754377434&width=1000"
+                  ],
+         "thread": "590",
+         "button": "",
+         "chain": "",
+         "fabric": ""
+       },
+
+       { "name": "Sky Blue",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1754376168716.901.jpg?v=1754377703&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/1754376201658.992.jpg?v=1754377703&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1754376214394.072.jpg?v=1754377691&width=1000"
+                  ],
+         "thread": "485",
+         "button": "",
+         "chain": "",
+         "fabric": ""
+       },
+
+      { "name": "Maroon",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1754376311158.238.jpg?v=1754377607&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/1754376293309.993.jpg?v=1754377607&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1754376299863.003.jpg?v=1754377607&width=1000"
+                  ],
+         "thread": "195",
+         "button": "",
+         "chain": "",
+         "fabric": ""
+       },
+
+       { "name": "Mint Green",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1754376395128.532.jpg?v=1754377671&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/1754376386531.663.jpg?v=1754377671&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1754376379250.717.jpg?v=1754377671&width=1000"
+                  ],
+         "thread": "701",
+         "button": "",
+         "chain": "",
+         "fabric": ""
+       },
+
+      { "name": "Beige",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1754376456061.463.jpg?v=1754377488&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/1754376439659.388.jpg?v=1754377488&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1754376446924.688.jpg?v=1754377488&width=1000"
+                  ],
+         "thread": "03",
+         "button": "",
+         "chain": "",
+         "fabric": ""
+       },
+
+       { "name": "Pink",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1754376487518.186.jpg?v=1754377350&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/1754376487518.186.jpg?v=1754377350&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1754376494172.014.jpg?v=1754377350&width=1000"
+                  ],
+         "thread": "310",
+         "button": "",
+         "chain": "",
+         "fabric": ""
+       },
+
+       { "name": "Grey",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1754376538413.258.jpg?v=1754377387&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/1754376517491.099.jpg?v=1754377387&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1754376530883.528.jpg?v=1754377387&width=800"
+                  ],
+         "thread": "435",
+         "button": "",
+         "chain": "",
+         "fabric": ""
+       },
+
+       { "name": "White",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1754376571552.653.jpg?v=1754377315&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/1754376565031.94.jpg?v=1754377315&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1754376578037.33.jpg?v=1754377315&width=1000"
+                  ],
+         "thread": "",
+         "button": "",
+         "chain": "",
+         "fabric": ""
+       },
+
+       { "name": "Black",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1754373543194.649.jpg?v=1754374252&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/1754373563694.385.jpg?v=1754374252&width=800",
+                   "https://silayibazi.in/cdn/shop/files/1754373581563.171.jpg?v=1754374252&width=1000"
+                  ],
+         "thread": "",
+         "button": "",
+         "chain": "",
+         "fabric": ""
+       }
+
+       ] },
+
+  "halterneck_waistcoat": { "name": "Halterneck Waistcoat","colors": [
+       { "name": "Brown",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1754482557272.669.jpg?v=1754494610&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/1754482557272.669.jpg?v=1754494610&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1754482564277.206.jpg?v=1754494611&width=1000"
+                  ],
+         "thread": "",
+         "button": "",
+         "chain": "",
+         "fabric": ""
+       },
+
+      { "name": "Navy",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1754482534191.892.jpg?v=1754494554&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/1754482534191.892.jpg?v=1754494554&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1754482550496.869.jpg?v=1754494554&width=1000"
+                  ],
+         "thread": "590",
+         "button": "",
+         "chain": "",
+         "fabric": ""
+       },
+
+       { "name": "Sky Blue",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1754482421835.486.jpg?v=1754494390&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/1754482421835.486.jpg?v=1754494390&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1754482436624.707.jpg?v=1754494408&width=1000"
+                  ],
+         "thread": "485",
+         "button": "",
+         "chain": "",
+         "fabric": ""
+       },
+
+      { "name": "Maroon",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1754482512805.632.jpg?v=1754494358&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/1754482512805.632.jpg?v=1754494358&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1754482519935.736.jpg?v=1754494358&width=1000"
+                  ],
+         "thread": "195",
+         "button": "",
+         "chain": "",
+         "fabric": ""
+       },
+
+       { "name": "Mint Green",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1754482782569.668.jpg?v=1754494307&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/1754482759488.853.jpg?v=1754494293&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1754482766729.769.jpg?v=1754494307&width=1000"
+                  ],
+         "thread": "701",
+         "button": "",
+         "chain": "",
+         "fabric": ""
+       },
+
+      { "name": "Beige",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1754482651677.831.jpg?v=1754494245&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/1754482658378.566.jpg?v=1754494245&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1754482651677.831.jpg?v=1754494245&width=1000"
+                  ],
+         "thread": "03",
+         "button": "",
+         "chain": "",
+         "fabric": ""
+       },
+
+       { "name": "Pink",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1754482603759.79.jpg?v=1754494179&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/1754482595853.933.jpg?v=1754494179&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1754482603759.79.jpg?v=1754494179&width=1000"
+                  ],
+         "thread": "310",
+         "button": "",
+         "chain": "",
+         "fabric": ""
+       },
+
+       { "name": "Grey",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1754482634277.987.jpg?v=1754494130&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/1754482634277.987.jpg?v=1754494130&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1754482626535.802.jpg?v=1754494130&width=1000"
+                  ],
+         "thread": "435",
+         "button": "",
+         "chain": "",
+         "fabric": ""
+       },
+
+       { "name": "White",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1754482751398.276.jpg?v=1754494060&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/1754482751398.276.jpg?v=1754494060&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1754482714938.705.jpg?v=1754494060&width=1000"
+                  ],
+         "thread": "",
+         "button": "",
+         "chain": "",
+         "fabric": ""
+       },
+
+       { "name": "Black",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1754482699774.839.jpg?v=1754493407&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/1754482699774.839.jpg?v=1754493407&width=1000",
+                   ""
+                  ],
+         "thread": "",
+         "button": "",
+         "chain": "",
+         "fabric": ""
+       }
+
+       ] },
+
+
+
+
+  "dori_top_sleeveless": { "name": "Dori Top sleeveless {Tie-Up vestTop}","colors": [
+       { "name": "Red",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1754507598445.588.jpg?v=1754507779&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/1754507584035.851.jpg?v=1754507779&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1754507577462.113.jpg?v=1754507779&width=1000"
+                  ],
+         "thread": "",
+         "button": "",
+         "chain": "",
+         "fabric": ""
+       },
+
+      { "name": "Yellow",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1754507672683.001.jpg?v=1754507915&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/1754507672683.001.jpg?v=1754507915&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1754507692217.566.jpg?v=1754507915&width=1000"
+                  ],
+         "thread": "",
+         "button": "",
+         "chain": "",
+         "fabric": ""
+       },
+
+       { "name": "White",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1754507628013.727.jpg?v=1754507809&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/1754507621096.169.jpg?v=1754507809&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1754507613829.64.jpg?v=1754507809&width=1000"
+                  ],
+         "thread": "",
+         "button": "",
+         "chain": "",
+         "fabric": ""
+       },
+
+       { "name": "Pink",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1754507635483.023.jpg?v=1754507845&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/1754507635483.023.jpg?v=1754507845&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1754507650259.923.jpg?v=1754507835&width=1000"
+                  ],
+         "thread": "",
+         "button": "",
+         "chain": "",
+         "fabric": ""
+       }
+
+
+       ] },
+  "dori_top": { "name": "Dori Top {Tie-Up Peplum Top}","colors": [
+       { "name": "Red",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1754504683569.304.jpg?v=1754504916&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/1754504602644.439.jpg?v=1754504916&width=800",
+                   "https://silayibazi.in/cdn/shop/files/1754504702842.246.jpg?v=1754504877&width=1000"
+                  ],
+         "thread": "",
+         "button": "",
+         "chain": "",
+         "fabric": ""
+       },
+
+      { "name": "Yellow",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1754504754194.51.jpg?v=1754504954&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/1754504760347.408.jpg?v=1754504954&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1754504767168.139.jpg?v=1754504954&width=1000"
+                  ],
+         "thread": "",
+         "button": "",
+         "chain": "",
+         "fabric": ""
+       },
+
+       { "name": "White",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1754504805042.777.jpg?v=1754504985&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/1754504792198.103.jpg?v=1754504985&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1754504798551.44.jpg?v=1754504985&width=1000"
+                  ],
+         "thread": "",
+         "button": "",
+         "chain": "",
+         "fabric": ""
+       },
+
+       { "name": "Pink",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1754504727087.817.jpg?v=1754505016&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/1754504727087.817.jpg?v=1754505016&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1754504735099.588.jpg?v=1754505016&width=1000"
+                  ],
+         "thread": "",
+         "button": "",
+         "chain": "",
+         "fabric": ""
+       }
+
+
+       ] },
+
+  "corset_top": {
+    "name": "Corset Top",
+    "colors": [
+      {
+         "name": "Black",
+        "thumb": "https://silayibazi.in/cdn/shop/files/1721658409999.717.jpg?v=1721727397&width=1000",
+        "images": ["https://silayibazi.in/cdn/shop/files/1721658409999.717.jpg?v=1721727397&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1721658429144.887.jpg?v=1721727397&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1721658481573.789.jpg?v=1721727397&width=1000"
+                  ],
+        "thread": "Black",
+        "chain": "Black",
+        "fabric": ""
+      },
+
+      {
+        "name": "Blue",
+        "thumb": "https://silayibazi.in/cdn/shop/files/1721660557379.776.jpg?v=1721729564&width=1000",
+        "images": ["https://silayibazi.in/cdn/shop/files/1721660557379.776.jpg?v=1721729564&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1721660565391.022.jpg?v=1721729564&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1721660573264.084.jpg?v=1721729564&width=1000"
+                  ],
+        "thread": "536",
+        "chain": ""
+
+
+      },
+
+      {
+        "name": "Red",
+        "thumb": "https://silayibazi.in/cdn/shop/files/1726337614718.477.jpg?v=1726337853&width=1000",
+        "images": ["https://silayibazi.in/cdn/shop/files/1726337658321.809.jpg?v=1726337853&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1726337614718.477.jpg?v=1726337853&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1726337633635.564.jpg?v=1726337853&width=1000"
+                  ],
+        "thread": "994?",
+        "chain": "",
+        "fabric": ""
+      },
+
+      {
+        "name": "Indigo",
+        "thumb": "https://silayibazi.in/cdn/shop/files/1721660662178.702.jpg?v=1721730260&width=1000",
+        "images": ["https://silayibazi.in/cdn/shop/files/1721660662178.702.jpg?v=1721730260&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1721660606956.268.jpg?v=1721730259&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1721660621577.312.jpg?v=1721730259&width=1000"
+                  ],
+        "thread": "522?",
+        "chain": "",
+        "fabric": ""
+      }
+    ]
+   },
+
+   "wrap_top": {
+    "name": "Wrap Top",
+    "colors": [
+      {
+        "name": "Mauve",
+        "thumb": "https://silayibazi.in/cdn/shop/files/1746355915652.008.jpg?v=1746356176&width=1000",
+        "images": ["https://silayibazi.in/cdn/shop/files/1746355915652.008.jpg?v=1746356176&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/0R4A8668.jpg?v=1746356176&width=1000"
+                  ],
+        "thread": "",
+        "button": "",
+        "chain": "",
+        "fabric": ""
+      },
+
+      {
+        "name": "Indigo",
+        "thumb": "https://silayibazi.in/cdn/shop/files/0R4A8820.jpg?v=1746356189&width=1000",
+        "images": ["https://silayibazi.in/cdn/shop/files/0R4A8820.jpg?v=1746356189&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/0R4A8798.jpg?v=1746356189&width=1000"
+                  ],
+        "thread": "",
+        "button": "",
+        "chain": "",
+        "fabric": ""
+      },
+
+      {
+        "name": "Red Lotus",
+        "thumb": "https://silayibazi.in/cdn/shop/files/1746355926934.762.jpg?v=1746356207&width=1000",
+        "images": ["https://silayibazi.in/cdn/shop/files/1746355926934.762.jpg?v=1746356207&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/0R4A8623.jpg?v=1746356207&width=1000"
+                  ],
+        "thread": "",
+        "button": "",
+        "chain": "",
+        "fabric": ""
+      }
+    ]
+   },
+
+    "sleeveless_top": {
+    "name": "Sleeveless Top",
+    "colors": [
+      {
+        "name": "Red",
+        "thumb": "https://silayibazi.in/cdn/shop/files/1712430215243.23_60953f16-27e8-489e-a64b-ea36b3afdfa8.jpg?v=1712644102&width=1000",
+        "images": ["https://silayibazi.in/cdn/shop/files/1712430215243.23_60953f16-27e8-489e-a64b-ea36b3afdfa8.jpg?v=1712644102&width=1000",
+                  "https://silayibazi.in/cdn/shop/files/1712430268455.293_0ead1352-7915-4c00-9570-fbee62e2d07c.jpg?v=1712644102&width=1000"
+                ],
+        "thread": "",
+        "button": "",
+        "chain": "",
+        "fabric": ""
+      },
+
+      {
+        "name": "White",
+        "thumb": "https://silayibazi.in/cdn/shop/files/1712430359490.836_789b693e-b576-4935-bded-f9f31a83568c.jpg?v=1713355048&width=1000",
+        "images": ["https://silayibazi.in/cdn/shop/files/1712430359490.836_789b693e-b576-4935-bded-f9f31a83568c.jpg?v=1713355048&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1713354989154.478.jpg?v=1713355048&width=1000"
+                  ],
+        "thread": "",
+        "button": "",
+        "chain": "",
+        "fabric": ""
+      }
+    ]
+   },
+
+  "rumali_top": { "name": "Rumali Top (HalterNeck Top)","colors": [
+       { "name": "Red",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1754395303882.756.jpg?v=1754395476&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/1754395296918.758.jpg?v=1754395476&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1754395317621.09.jpg?v=1754395476&width=1000"
+                  ],
+         "thread": "673",
+         "button": "",
+         "chain": "519",
+         "fabric": ""
+       },
+
+      { "name": "Indigo",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1754395249687.883.jpg?v=1754395404&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/1754395280067.4.jpg?v=1754395396&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1754395266000.31.jpg?v=1754395404&width=1000"
+                  ],
+         "thread": "",
+         "button": "",
+         "chain": "",
+         "fabric": ""
+       },
+
+       { "name": "Seashell",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1754395176397.548.jpg?v=1754395444&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/1754395176397.548.jpg?v=1754395444&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1754395168144.917.jpg?v=1754395444&width=1000"
+                  ],
+         "thread": "03",
+         "button": "",
+         "chain": "293",
+         "fabric": ""
+       },
+
+       { "name": "Green",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1754395231685.272.jpg?v=1754395527&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/1754395198215.581.jpg?v=1754395527&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1754395218380.273.jpg?v=1754395527&width=1000"
+                  ],
+         "thread": "",
+         "button": "",
+         "chain": "912",
+         "fabric": ""
+       }
+
+       ] },
+
+ "corset_tube_top": { "name": "Corset Tube Top","colors": [
+       { "name": "Brown",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1754204013127.204.jpg?v=1754204124&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/1754204013127.204.jpg?v=1754204124&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1754203985576.561.jpg?v=1754204124&width=1000"
+                  ],
+         "thread": "",
+         "button": "",
+         "chain": "",
+         "fabric": ""
+       },
+
+       { "name": "Navy Blue",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1754204637180.861.jpg?v=1754204692&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/1754204637180.861.jpg?v=1754204692&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1754204619378.554.jpg?v=1754204692&width=1000"
+                  ],
+         "thread": "",
+         "button": "",
+         "chain": "",
+         "fabric": ""
+       },
+
+       { "name": "Pink",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1754218162459.498.jpg?v=1754218234&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/1754218162459.498.jpg?v=1754218234&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1754218184317.195.jpg?v=1754218234&width=1000"
+                  ],
+         "thread": "",
+         "button": "",
+         "chain": "",
+         "fabric": ""
+       }
+
+
+       ]},
+
+
+
+
+
+
+  "wrap_dress": {
+    "name": "Wrap Around Dress",
+    "colors": [
+      {
+        "name": "Pink",
+        "thumb": "https://silayibazi.in/cdn/shop/files/1718296828001.787.jpg?v=1752769816&width=1000",
+        "images": ["https://silayibazi.in/cdn/shop/files/1718296828001.787.jpg?v=1752769816&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1718296799504.538.jpg?v=1752769816&width=1000"
+                  ],
+        "thread": "gfdrd",
+        "fabric": ""
+      },
+
+      {
+        "name": "Yellow",
+        "thumb": "https://silayibazi.in/cdn/shop/files/1712431830037.477_542c0953-0f28-4fbb-8953-618a706ad9a5.jpg?v=1713351216&width=1000",
+        "images": ["https://silayibazi.in/cdn/shop/files/1712431830037.477_542c0953-0f28-4fbb-8953-618a706ad9a5.jpg?v=1713351216&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1712431782343.232_508d8576-eb63-4483-80c8-ebe8eee6314b.jpg?v=1713351216&width=1000"
+                  ],
+        "thread": "297",
+        "fabric": ""
+      },
+
+      {
+        "name": "Green",
+        "thumb": "https://silayibazi.in/cdn/shop/files/0R4A9154.jpg?v=1732286410&width=1000",
+        "images": ["https://silayibazi.in/cdn/shop/files/0R4A9154.jpg?v=1732286410&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/0R4A9139.jpg?v=1732286410&width=1000"
+                  ],
+        "thread": "",
+        "fabric": ""
+      }
+    ]
+   },
+    "short_halter_dress": {
+     "name": "Short Halter Dress",
+     "colors": [
+      {
+       "name": "Blue",
+      "thumb": "https://silayibazi.in/cdn/shop/files/0R4A7782.jpg?v=1732463062&width=1000",
+       "images": ["https://silayibazi.in/cdn/shop/files/0R4A7782.jpg?v=1732463062&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/0R4A7774.jpg?v=1732463061&width=1000"
+                  ],
+       "thread": "",
+       "button": "",
+        "chain": "",
+         "fabric": ""
+      },
+
+      {
+        "name": "Dusty Rose",
+        "thumb": "https://silayibazi.in/cdn/shop/files/0R4A7724.jpg?v=1732464081&width=1000",
+        "images": ["https://silayibazi.in/cdn/shop/files/0R4A7724.jpg?v=1732464081&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/0R4A7731.jpg?v=1732464081&width=1000"
+                  ],
+        "thread": "",
+        "button": "",
+        "chain": "",
+        "fabric": ""
+      },
+
+      {
+        "name": "Yellow",
+        "thumb": "https://silayibazi.in/cdn/shop/files/0R4A7708.jpg?v=1732463538&width=1000",
+        "images": ["https://silayibazi.in/cdn/shop/files/0R4A7708.jpg?v=1732463538&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/0R4A7701.jpg?v=1732463538&width=1000"
+                  ],
+        "thread": "",
+        "button": "",
+        "chain": "",
+        "fabric": ""
+      }
+
+
+
+
+    ] },
+
+  "long_halter_dress": {
+     "name": "Long Halter Dress",
+      "colors": [
+         {
+           "name": "Indigo Blue",
+       "thumb": "https://silayibazi.in/cdn/shop/files/0R4A7372.jpg?v=1732454811&width=1000",
+       "images": [  "https://silayibazi.in/cdn/shop/files/0R4A7385.jpg?v=1732454810&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/0R4A7372.jpg?v=1732454811&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/0R4A7380.jpg?v=1732454810&width=1000"
+                  ],
+        "thread": "",
+        "button": "",
+         "chain": "",
+          "fabric": ""
+           },
+            {
+           "name": "Pink",
+       "thumb": "https://silayibazi.in/cdn/shop/files/0R4A7436.jpg?v=1732456224&width=1000",
+       "images": [  "https://silayibazi.in/cdn/shop/files/0R4A7436.jpg?v=1732456224&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/0R4A7441.jpg?v=1732456224&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/0R4A7443.jpg?v=1732456224&width=1000"
+                  ],
+        "thread": "",
+        "button": "",
+         "chain": "",
+          "fabric": ""
+           },
+
+           {
+           "name": "Light Blue",
+       "thumb": "https://silayibazi.in/cdn/shop/files/0R4A7411.jpg?v=1732455822&width=1000",
+       "images": ["https://silayibazi.in/cdn/shop/files/0R4A7411.jpg?v=1732455822&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/0R4A7413.jpg?v=1732455822&width=1000"
+                  ],
+        "thread": "",
+        "button": "",
+         "chain": "",
+          "fabric": ""
+           }
+
+
+           ] },
+
+    "shirtdress": { "name": "Shirtdress","colors": [
+       { "name": "Red",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1754236119684.599.jpg?v=1754236920&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/1754236109009.787.jpg?v=1754236917&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1754236135265.053.jpg?v=1754236918&width=1000"
+                  ],
+         "thread": "",
+         "button": "",
+         "chain": "",
+         "fabric": ""
+       },
+
+      { "name": "Green",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1754236244085.405.jpg?v=1754236636&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/1754236250804.293.jpg?v=1754236636&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1754236213166.209.jpg?v=1754236636&width=1000"
+                  ],
+         "thread": "",
+         "button": "",
+         "chain": "",
+         "fabric": ""
+       },
+
+       { "name": "Rose",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1754236145147.384.jpg?v=1754236528&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/1754236145147.384.jpg?v=1754236528&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1754236200675.216.jpg?v=1754236528&width=1000"
+                  ],
+         "thread": "",
+         "button": "",
+         "chain": "",
+         "fabric": ""
+       }
+
+       ] },
+
+  "stretchable_midi_dress": { "name": "Stretchable Midi Dress","colors": [
+       { "name": "Dark blue",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1754227008124.806.jpg?v=1754227398&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/1754226946887.22.jpg?v=1754227397&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1754226992805.237.jpg?v=1754227398&width=1000"
+                  ],
+         "thread": "29",
+         "button": "",
+         "chain": "",
+         "fabric": ""
+       },
+
+      { "name": "Brown",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1754226845756.976.jpg?v=1754227926&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/1754226861927.013.jpg?v=1754227926&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1754226827478.613.jpg?v=1754227926&width=1000"
+                  ],
+         "thread": "294",
+         "button": "",
+         "chain": "861",
+         "fabric": ""
+       },
+
+       { "name": "Pink",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1754226908597.779.jpg?v=1754228328&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/1754226888454.677.jpg?v=1754228328&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1754226927908.393_b1c274fc-36ab-458f-90ad-675036394413.jpg?v=1754228328&width=1000"
+                  ],
+         "thread": "71",
+         "button": "312",
+         "chain": "",
+         "fabric": ""
+       }
+
+       ] },
+
+  "tunic_dress": { "name": "Tunic Dress","colors": [
+
+
+    { "name": "Indigo",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1756115519597.663.jpg?v=1756116759&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/1756115519597.663.jpg?v=1756116759&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1756116523312.004.jpg?v=1756116704&width=1000"
+                  ],
+         "thread": "",
+         "button": "",
+         "chain": "",
+         "fabric": ""
+       },
+
+
+    { "name": "Red",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1754200765082.185.jpg?v=1754200866&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/1754200723679.719.jpg?v=1754200866&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1754200780426.789.jpg?v=1754200866&width=1000"
+                  ],
+         "thread": "",
+         "button": "",
+         "chain": "",
+         "fabric": ""
+       },
+
+      { "name": "Butter Yellow",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1754198627579.196.jpg?v=1754198706&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/1754198627579.196.jpg?v=1754198706&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1754198648626.861.jpg?v=1754198707&width=1000"
+                  ],
+         "thread": "",
+         "button": "",
+         "chain": "",
+         "fabric": ""
+       },
+
+       { "name": "Mint Green",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1754197531361.795.jpg?v=1754197581&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/1754197531361.795.jpg?v=1754197581&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1754197423595.874.jpg?v=1754197582&width=1000"
+                  ],
+         "thread": "713",
+         "button": "",
+         "chain": "823",
+         "fabric": ""
+       },
+
+      { "name": "Seashell",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1754246530182.036.jpg?v=1754246588&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/1754246530182.036.jpg?v=1754246588&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1754246512893.626.jpg?v=1754246588&width=1000"
+                  ],
+         "thread": "03",
+         "button": "",
+         "chain": "293",
+         "fabric": ""
+       },
+
+       { "name": "Pink",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1754246460202.283.jpg?v=1754246654&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/1754246451718.786.jpg?v=1754246654&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1754246468268.263.jpg?v=1754246654&width=1000"
+                  ],
+         "thread": "144",
+         "button": "",
+         "chain": "042,144",
+         "fabric": ""
+       }
+
+
+       ] },
+
+  "box_dress": { "name": "Box Dress (Pleated Midi Dress)","colors": [
+       { "name": "Red",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1754385784695.703.jpg?v=1754386092&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/1754385812716.109.jpg?v=1754386092&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1754385791758.8.jpg?v=1754386092&width=1000"
+                  ],
+         "thread": "634",
+         "button": "",
+         "chain": "819",
+         "fabric": ""
+       },
+
+      { "name": "Black",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1754385718108.628.jpg?v=1754386188&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/1754385734654.251.jpg?v=1754386188&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1754385725624.259.jpg?v=1754386188&width=1000"
+                  ],
+         "thread": "",
+         "button": "",
+         "chain": "",
+         "fabric": ""
+       },
+
+       { "name": "Brown",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1754385835191.653.jpg?v=1754386450&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/1754385861657.914.jpg?v=1754386450&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1754385835191.653.jpg?v=1754386450&width=1000"
+                  ],
+         "thread": "266",
+         "button": "",
+         "chain": "",
+         "fabric": ""
+       },
+
+       { "name": "White",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1754385777027.024.jpg?v=1754386545&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/1754385777027.024.jpg?v=1754386545&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1754385742621.458.jpg?v=1754386935&width=1000"
+                  ],
+         "thread": "",
+         "button": "",
+         "chain": "",
+         "fabric": ""
+       }
+
+       ] },
+
+  "tube_dress": { "name": "Tube Dress","colors": [
+       { "name": "Butter Yellow",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1754221332164.007.jpg?v=1754221787&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/1754221332164.007.jpg?v=1754221787&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1754221347688.5.jpg?v=1754221786&width=1000"
+                  ],
+         "thread": "",
+         "button": "",
+         "chain": "",
+         "fabric": ""
+       },
+
+      { "name": "navy",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1754219130523.219.jpg?v=1754224509&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/1754219099796.541.jpg?v=1754224509&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1754219146621.324.jpg?v=1754224510&width=1000"
+                  ],
+         "thread": "",
+         "button": "",
+         "chain": "",
+         "fabric": ""
+       },
+
+       { "name": "Green",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1754219272489.701.jpg?v=1754224676&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/1754219242892.296.jpg?v=1754224676&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1754219280168.407.jpg?v=1754224676&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1754219264551.254.jpg?v=1754224677&width=1000"
+                  ],
+         "thread": "",
+         "button": "",
+         "chain": "",
+         "fabric": ""
+       },
+
+       { "name": "Red",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1754219219358.599.jpg?v=1754224794&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/1754219178111.86.jpg?v=1754224793&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1754219211786.532.jpg?v=1754224793&width=1000"
+                  ],
+         "thread": "",
+         "button": "",
+         "chain": "",
+         "fabric": ""
+       }
+
+
+       ] },
+
+  "Pleated_Dress": { "name": "Pleated Dress","colors": [
+       { "name": "Lime",
+         "thumb": "https://silayibazi.in/cdn/shop/files/0R4A7576.jpg?v=1732460426&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/0R4A7576.jpg?v=1732460426&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/0R4A7562.jpg?v=1732460426&width=1000"
+                  ],
+         "thread": "",
+         "button": "",
+         "chain": "",
+         "fabric": ""
+       },
+
+      { "name": "Pista",
+         "thumb": "https://silayibazi.in/cdn/shop/files/0R4A7607.jpg?v=1737535555&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/5B43C7C4-6C83-4EB6-B9F1-78E96DFDD005.jpg?v=1737535555&width=1000","https://silayibazi.in/cdn/shop/files/FC953711-FA38-4597-AFCD-480844B33958.jpg?v=1737535555&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/78C6A781-07B4-48E9-8D09-2D9AD2B6E288.jpg?v=1737535538&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/87C9B504-11A3-4970-9A4A-AB212C6013BD.jpg?v=1737535538&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/0R4A7607.jpg?v=1737535555&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/0R4A7622.jpg?v=1737535555&width=1000"
+                  ],
+         "thread": "",
+         "button": "",
+         "chain": "",
+         "fabric": ""
+       },
+
+       { "name": "Daisy",
+         "thumb": "https://silayibazi.in/cdn/shop/files/0R4A7528.jpg?v=1732461801&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/0R4A7528.jpg?v=1732461801&width=1000",
+                    "https://silayibazi.in/cdn/shop/files/0R4A7516.jpg?v=1732461799&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/0R4A7536.jpg?v=1732461800&width=1000"
+                  ],
+         "thread": "",
+         "button": "",
+         "chain": "",
+         "fabric": ""
+       }
+
+       ] },
+
+
+  "midi_slit_dress": { "name": "Midi Slit dress","colors": [
+       { "name": "Yellow",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1712471128479.479_f46e0326-fdf8-4697-b5c4-27f9c91e0a0d.jpg?v=1718348308&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/1712471128479.479_f46e0326-fdf8-4697-b5c4-27f9c91e0a0d.jpg?v=1718348308&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1712471147243.031_0fce3e92-ff33-4f7c-aaf1-a0c7e805b7b9.jpg?v=1718348308&width=1000"
+                  ],
+         "thread": "297",
+         "button": "",
+         "chain": "",
+         "fabric": ""
+       },
+
+      { "name": "Green",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1718261217785.914.jpg?v=1718261546&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/1718261217785.914.jpg?v=1718261546&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1718261240696.039.jpg?v=1718261554&width=1000"
+                  ],
+         "thread": "791",
+         "button": "",
+         "chain": "",
+         "fabric": ""
+       },
+
+       { "name": "Blue",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1718260798015.748.jpg?v=1718261056&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/1718260815578.765.jpg?v=1718261056&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1718260826747.8.jpg?v=1718261037&width=1000"
+                  ],
+         "thread": "",
+         "button": "",
+         "chain": "",
+         "fabric": ""
+       }
+
+
+       ] },
+
+
+
+
+
+
+
+      "layered_maxi_skirt": {
+    "name": "Layered Maxi Skirt",
+    "colors": [
+      {
+        "name": "White",
+        "thumb": "https://silayibazi.in/cdn/shop/files/1721681102753.793.jpg?v=1721683501&width=1000",
+        "images": ["https://silayibazi.in/cdn/shop/files/1721681102753.793.jpg?v=1721683501&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1721681019477.336.jpg?v=1721683501&width=800"
+                  ],
+        "thread": "",
+        "chain": "",
+        "fabric": ""
+      },
+
+      {
+        "name": "Green",
+        "thumb": "https://silayibazi.in/cdn/shop/files/1721676444552.313.jpg?v=1721684846&width=1000",
+        "images": ["https://silayibazi.in/cdn/shop/files/1721676444552.313.jpg?v=1721684846&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1721676469577.623.jpg?v=1721684846&width=1000"],
+        "thread": "",
+        "chain": "",
+        "fabric": ""
+      },
+
+      {
+        "name": "Black",
+        "thumb": "https://silayibazi.in/cdn/shop/files/1721677055968.851.jpg?v=1721683609&width=1000",
+        "images": ["https://silayibazi.in/cdn/shop/files/1721677055968.851.jpg?v=1721683609&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1721677196114.508.jpg?v=1721683644&width=1000"
+                  ],
+        "thread": "",
+        "chain": "",
+        "fabric": ""
+      },
+
+      {
+        "name": "Teal",
+        "thumb": "https://silayibazi.in/cdn/shop/files/1721674363008.064.jpg?v=1721684620&width=1000",
+        "images": ["https://silayibazi.in/cdn/shop/files/1721674363008.064.jpg?v=1721684620&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1721674375205.117.jpg?v=1721684621&width=1000"
+                  ],
+        "thread": "",
+        "button": "",
+        "chain": "",
+        "fabric": ""
+      }
+    ]
+  },
+
+  "slit_skirt": {
+    "name": "Slit Skirt",
+    "colors": [
+      {
+        "name": "Red",
+        "thumb": "https://silayibazi.in/cdn/shop/files/1732285473645.998.jpg?v=1732285616&width=1000",
+        "images": ["https://silayibazi.in/cdn/shop/files/1732285473645.998.jpg?v=1732285616&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/0R4A9058.jpg?v=1732285817&width=1000"
+                  ],
+        "thread": "",
+        "fabric": ""
+      },
+
+      {
+        "name": "Green",
+        "thumb": "https://silayibazi.in/cdn/shop/files/1732285536821.912.jpg?v=1732286082&width=1000",
+        "images": ["https://silayibazi.in/cdn/shop/files/1732285536821.912.jpg?v=1732286082&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/0R4A9123.jpg?v=1732286104&width=1000"
+                  ],
+        "thread": "",
+        "fabric": ""
+      },
+
+      {
+        "name": "Beige",
+        "thumb": "https://silayibazi.in/cdn/shop/files/1732285392056.764.jpg?v=1732285873&width=1000",
+        "images": ["https://silayibazi.in/cdn/shop/files/1732285392056.764.jpg?v=1732285873&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/0R4A9004.jpg?v=1732285892&width=1000"
+                  ],
+        "thread": "",
+        "fabric": ""
+      },
+
+      {
+        "name": "Blue",
+        "thumb": "https://silayibazi.in/cdn/shop/files/1718726254545.311.jpg?v=1718726546&width=1000",
+        "images": ["https://silayibazi.in/cdn/shop/files/1732285519968.194.jpg?v=1732285968&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/0R4A9096.jpg?v=1732285986&width=1000"
+                  ],
+        "thread": "",
+        "fabric": ""
+      }
+    ]
+   },
+
+  "tennis_skirt_(pleated skirt)": {
+    "name": "tennis skirt (pleated skirt)",
+    "colors": [
+
+      { "name": "Beige",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1754376456061.463.jpg?v=1754377488&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/1754376439659.388.jpg?v=1754377488&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1754376446924.688.jpg?v=1754377488&width=1000"
+                  ],
+         "thread": "",
+         "chain": "",
+         "fabric": ""
+       },
+
+       { "name": "Pink",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1754376487518.186.jpg?v=1754377350&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/1754376487518.186.jpg?v=1754377350&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1754376494172.014.jpg?v=1754377350&width=1000"
+                  ],
+         "thread": "",
+         "chain": "",
+         "fabric": ""
+       },
+
+       { "name": "Grey",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1754376538413.258.jpg?v=1754377387&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/1754376517491.099.jpg?v=1754377387&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1754376530883.528.jpg?v=1754377387&width=800"
+                  ],
+         "thread": "",
+         "chain": "",
+         "fabric": ""
+       },
+
+       { "name": "White",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1754376571552.653.jpg?v=1754377315&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/1754376565031.94.jpg?v=1754377315&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1754376578037.33.jpg?v=1754377315&width=1000"
+                  ],
+         "thread": "",
+         "chain": "",
+         "fabric": ""
+       },
+
+      { "name": "Black",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1754373543194.649.jpg?v=1754374252&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/1754373563694.385.jpg?v=1754374252&width=800",
+                   "https://silayibazi.in/cdn/shop/files/1754373581563.171.jpg?v=1754374252&width=1000"
+                  ],
+         "thread": "",
+         "chain": "",
+         "fabric": ""
+       }
+
+    ]
+   },
+
+
+  "long_skirt": { "name": "Long Skirt",
+   "colors": [
+           { "name": "Green",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1721661355408.371.jpg?v=1721663449&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/1721661355408.371.jpg?v=1721663449&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1721661347280.482.jpg?v=1721663459&width=1000"
+                  ],
+         "thread": "",
+         "button": "",
+         "chain": "",
+         "fabric": ""
+       },
+
+      { "name": "Blue",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1718217207646.749.jpg?v=1718218203&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/1718217207646.749.jpg?v=1718218203&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1718217197100.031.jpg?v=1718218203&width=1000"
+                  ],
+         "thread": "",
+         "button": "",
+         "chain": "",
+         "fabric": ""
+       },
+
+       { "name": "White Chakra",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1718218608624.697.jpg?v=1718259478&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/1718218608624.697.jpg?v=1718259478&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1718218596533.199.jpg?v=1718259471&width=1000"
+                  ],
+         "thread": "",
+         "button": "",
+         "chain": "",
+         "fabric": ""
+       },
+
+       { "name": "Indigo",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1721643391410.694.jpg?v=1721643538&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/1721643391410.694.jpg?v=1721643538&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1721643347206.917.jpg?v=1721643538&width=1000"
+                  ],
+         "thread": "",
+         "button": "",
+         "chain": "",
+         "fabric": ""
+       },
+
+       { "name": "Floral",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1718216360041.465.jpg?v=1718216519&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/1718216360041.465.jpg?v=1718216519&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1718216401992.235.jpg?v=1718216521&width=1000"
+                  ],
+         "thread": "",
+         "button": "",
+         "chain": "",
+         "fabric": ""
+       }
+
+
+       ] },
+
+
+
+
+
+
+
+
+
+
+  "Short_Kurti_(v.neck": {
+    "name": "Short Kurti (v.neck)",
+    "colors": [
+      {
+        "name": "Red",
+        "thumb": "https://silayibazi.in/cdn/shop/files/1746356051955.504.jpg?v=1746356423&width=1000",
+        "images": ["https://silayibazi.in/cdn/shop/files/1746356051955.504.jpg?v=1746356423&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/0R4A7957.jpg?v=1746356423&width=1000"
+                  ],
+        "thread": "",
+        "button": "",
+        "chain": "",
+        "fabric": ""
+      },
+
+      {
+        "name": "White",
+        "thumb": "https://silayibazi.in/cdn/shop/files/1746356039625.343.jpg?v=1746356400&width=1000",
+        "images": ["https://silayibazi.in/cdn/shop/files/1746356039625.343.jpg?v=1746356400&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/0R4A7982.jpg?v=1746356400&width=1000"
+                  ],
+        "thread": "",
+        "button": "",
+        "chain": "",
+        "fabric": ""
+      }
+    ]
+  },
+
+   "squareneck_sleeveless_kurti": {
+     "name": "Squareneck Sleeveless Kurti",
+      "colors": [
+         {
+           "name": "White",
+            "thumb": "https://silayibazi.in/cdn/shop/files/1746356027739.889.jpg?v=1746356314&width=1000",
+             "images": ["https://silayibazi.in/cdn/shop/files/1746356027739.889.jpg?v=1746356314&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/0R4A7989.jpg?v=1746356314&width=1000"
+                  ],
+             "thread": "",
+              "button": "",
+               "chain": "",
+                "fabric": ""
+                 }
+           ] },
+
+   "border_short_kurti": {
+    "name": "Border Short Kurti",
+     "colors": [
+       { "name": "Peach",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1754389729504.543.jpg?v=1754389883&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/1754389729504.543.jpg?v=1754389883&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1754389722412.601.jpg?v=1754389883&width=1000"
+                  ],
+         "thread": "",
+         "button": "",
+         "chain": "",
+         "fabric": ""
+       },
+
+      { "name": "Red",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1754389633628.318.jpg?v=1754389930&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/1754389650925.722.jpg?v=1754389930&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1754389602026.455.jpg?v=1754389930&width=1000"
+                  ],
+         "thread": "",
+         "button": "",
+         "chain": "",
+         "fabric": ""
+       },
+
+       { "name": "Green",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1754389555740.374.jpg?v=1754389965&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/1754389555740.374.jpg?v=1754389965&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1754389535208.923.jpg?v=1754389965&width=1000"
+                  ],
+         "thread": "",
+         "button": "",
+         "chain": "",
+         "fabric": ""
+       },
+
+       { "name": "Pink",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1754389757390.848.jpg?v=1754390008&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/1754389757390.848.jpg?v=1754390008&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1754389765381.93.jpg?v=1754390008&width=1000"
+                  ],
+         "thread": "",
+         "button": "",
+         "chain": "",
+         "fabric": ""
+       },
+
+       { "name": "Dusty Blue",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1754389683039.038.jpg?v=1754390076&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/1754389674801.139.jpg?v=1754390076&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1754389666393.879.jpg?v=1754390076&width=1000"
+                  ],
+         "thread": "",
+         "button": "",
+         "chain": "",
+         "fabric": ""
+       }
+
+       ] },
+
+  "slip_kurti": {
+                  "name": "Slip Kurti",
+                  "colors": [
+                   { "name": "Red",
+                     "thumb": "https://silayibazi.in/cdn/shop/files/1754229156466.956.jpg?v=1754229778&width=1000",
+                     "images": ["https://silayibazi.in/cdn/shop/files/1754229156466.956.jpg?v=1754229778&width=1000",
+                                "https://silayibazi.in/cdn/shop/files/1754229165598.451.jpg?v=1754229779&width=1000"
+                                 ],
+                   "thread": "",
+                    "button": "",
+                     "chain": "",
+                      "fabric": "" },
+
+                      { "name": "Yellow",
+                     "thumb": "https://silayibazi.in/cdn/shop/files/1754229237017.397.jpg?v=1754230219&width=1000",
+                     "images": ["https://silayibazi.in/cdn/shop/files/1754229229747.709.jpg?v=1754230218&width=1000",
+                                "https://silayibazi.in/cdn/shop/files/1754229246108.122.jpg?v=1754230221&width=1000"
+                                 ],
+                   "thread": "",
+                    "button": "",
+                     "chain": "",
+                      "fabric": "" },
+
+                      { "name": "Pink",
+                     "thumb": "https://silayibazi.in/cdn/shop/files/1754229283100.153.jpg?v=1754229631&width=1000",
+                     "images": ["https://silayibazi.in/cdn/shop/files/1754229283100.153.jpg?v=1754229631&width=1000",
+                                "https://silayibazi.in/cdn/shop/files/1754229275664.956.jpg?v=1754229631&width=1000"
+                                 ],
+                   "thread": "",
+                    "button": "",
+                     "chain": "",
+                      "fabric": "" }
+
+
+
+                      ] },
+
+  "noodle_strap_kurti": { "name": "Noodle Strap kurti","colors": [
+       { "name": "Mustard",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1754478846538.646.jpg?v=1754479358&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/1754478839721.071.jpg?v=1754479360&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1754478853266.458.jpg?v=1754479358&width=1000"
+                  ],
+         "thread": "355",
+         "button": "",
+         "chain": "895",
+         "fabric": ""
+       },
+
+      { "name": "Black",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1754478794347.715.jpg?v=1754479500&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/1754478771363.485.jpg?v=1754479500&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1754478787780.822.jpg?v=1754479500&width=1000"
+                  ],
+         "thread": "Black",
+         "button": "",
+         "chain": "Black",
+         "fabric": ""
+       },
+
+       { "name": "Sunflower",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1754478889648.328.jpg?v=1754479606&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/1754478881896.743.jpg?v=1754479606&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1754478896249.116.jpg?v=1754479606&width=1000"
+                  ],
+         "thread": "white",
+         "button": "",
+         "chain": "white",
+         "fabric": ""
+       },
+
+       { "name": "Red",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1754478925953.16.jpg?v=1754479544&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/1754478925953.16.jpg?v=1754479544&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1754478919520.082.jpg?v=1754479552&width=1000"
+                  ],
+         "thread": "",
+         "button": "",
+         "chain": "",
+         "fabric": ""
+       },
+
+       { "name": "White",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1754478968294.608.jpg?v=1754479661&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/1754478968294.608.jpg?v=1754479661&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1754478984198.304.jpg?v=1754479661&width=1000"
+                  ],
+         "thread": "white",
+         "button": "",
+         "chain": "white",
+         "fabric": ""
+       }
+
+       ] },
+
+
+
+
+
+  "relaxed_fit_shirt": {
+    "name": "Relaxed Fit Shirt",
+    "colors": [
+      {
+        "name": "Mauve",
+        "thumb": "https://silayibazi.in/cdn/shop/files/1746355998189.853.jpg?v=1746356262&width=1000",
+        "images": ["https://silayibazi.in/cdn/shop/files/1746355998189.853.jpg?v=1746356262&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/0R4A8046.jpg?v=1746356262&width=1000"
+                  ],
+        "thread": "",
+        "button": "",
+        "chain": "",
+        "fabric": ""
+      },
+
+      {
+        "name": "White",
+        "thumb": "https://silayibazi.in/cdn/shop/files/0R4A8462.jpg?v=1732553924&width=1000",
+        "images": ["https://silayibazi.in/cdn/shop/files/0R4A8451.jpg?v=1732553924&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/0R4A8484.jpg?v=1732553924&width=1000"
+                  ],
+        "thread": "",
+        "button": "",
+        "chain": "",
+        "fabric": ""
+      },
+
+      {
+        "name": "Indigo Blue",
+        "thumb": "https://silayibazi.in/cdn/shop/files/0R4A8072.jpg?v=1746356288&width=1000",
+        "images": ["https://silayibazi.in/cdn/shop/files/0R4A8072.jpg?v=1746356288&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/0R4A8075.jpg?v=1746356288&width=1000"
+                  ],
+        "thread": "",
+        "button": "",
+        "chain": "",
+        "fabric": ""
+      },
+
+      {
+        "name": "Pink",
+        "thumb": "https://silayibazi.in/cdn/shop/files/1746355980386.613.jpg?v=1746356242&width=1000",
+        "images": ["https://silayibazi.in/cdn/shop/files/1746355980386.613.jpg?v=1746356242&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/0R4A8031.jpg?v=1746356242&width=1000"
+                  ],
+        "thread": "",
+        "button": "",
+        "chain": "",
+        "fabric": ""
+      }
+    ]
+  },
+"corset_shirt": { "name": "Corset Shirt","colors": [
+       { "name": "Indigo",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1754247699704.27.jpg?v=1754248769&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/1754247692449.791.jpg?v=1754248769&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1754247665557.563.jpg?v=1754248769&width=1000"
+                  ],
+         "thread": "",
+         "button": "",
+         "chain": "",
+         "fabric": ""
+       },
+
+      { "name": "Yellow strip",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1754247858156.766.jpg?v=1754248697&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/1754247840626.903.jpg?v=1754248697&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1754247799802.591.jpg?v=1754248697&width=1000"
+                  ],
+         "thread": "",
+         "button": "",
+         "chain": "",
+         "fabric": ""
+       },
+
+       { "name": "Red strip",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1754247951085.996.jpg?v=1754248622&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/1754247916579.297.jpg?v=1754248621&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1754247941426.043.jpg?v=1754248632&width=1000"
+                  ],
+         "thread": "634",
+         "button": "",
+         "chain": "",
+         "fabric": ""
+       },
+
+       { "name": "blue strip",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1754247901316.535.jpg?v=1754248579&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/1754247901316.535.jpg?v=1754248579&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1754247884204.773.jpg?v=1754248577&width=1000"
+                  ],
+         "thread": "",
+         "button": "",
+         "chain": "",
+         "fabric": ""
+       },
+
+       { "name": "pink strip",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1754247994327.584.jpg?v=1754248541&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/1754247971842.725.jpg?v=1754248532&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1754248001591.25.jpg?v=1754248541&width=1000"
+                  ],
+         "thread": "",
+         "button": "",
+         "chain": "",
+         "fabric": ""
+       },
+
+       { "name": "Green strip",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1754248114428.382.jpg?v=1754248490&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/1754248071268.02.jpg?v=1754248463&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1754248081335.779.jpg?v=1754248490&width=1000"
+                  ],
+         "thread": "",
+         "button": "",
+         "chain": "",
+         "fabric": ""
+       },
+
+       { "name": "Pink",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1754247777364.234.jpg?v=1754248403&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/1754247765927.113.jpg?v=1754248417&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1754247757065.767.jpg?v=1754248417&width=1000"
+                  ],
+         "thread": "",
+         "button": "",
+         "chain": "",
+         "fabric": ""
+       },
+
+       { "name": "Mint",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1754248017018.012.jpg?v=1754248374&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/1754248025197.66.jpg?v=1754248374&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1754248049695.089.jpg?v=1754248374&width=1000"
+                  ],
+         "thread": "",
+         "button": "",
+         "chain": "",
+         "fabric": ""
+       },
+
+       { "name": "White",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1754247737350.432.jpg?v=1754248301&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/1754247719309.01.jpg?v=1754248312&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1754247727338.844.jpg?v=1754248312&width=1000"
+                  ],
+         "thread": "",
+         "button": "",
+         "chain": "",
+         "fabric": ""
+       },
+
+       { "name": "Yellow",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1754248141767.558.jpg?v=1754248269&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/1754248141767.558.jpg?v=1754248269&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1754248175604.155.jpg?v=1754248269&width=1000"
+                  ],
+         "thread": "",
+         "button": "",
+         "chain": "",
+         "fabric": ""
+       }
+
+       ] },
+
+
+
+
+
+
+  "Shorts_(shrug)": { "name": "Shorts (shrug)","colors": [
+       { "name": "purple",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1712646875414.904_23b70bbf-29a0-4c81-b943-b19c484478bd.jpg?v=1713381844&width=600",
+         "images": ["https://silayibazi.in/cdn/shop/files/1712646875414.904_23b70bbf-29a0-4c81-b943-b19c484478bd.jpg?v=1713381844&width=600"
+                  ],
+         "thread": "110",
+         "button": "",
+         "chain": "",
+         "fabric": ""
+       },
+
+      { "name": "Indigo",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1718385221880.942.jpg?v=1718385521&width=1000",
+         "images": [
+                   "https://silayibazi.in/cdn/shop/files/1718385221880.942.jpg?v=1718385521&width=1000"
+                  ],
+         "thread": "",
+         "button": "",
+         "chain": "",
+         "fabric": ""
+       }
+
+       ] },
+
+  "Shorts_(shirt)": { "name": "Shorts (shirt)","colors": [
+        { "name": "indigo Blue",
+         "thumb": "https://silayibazi.in/cdn/shop/files/0R4A8167.jpg?v=1732552870&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/0R4A8167.jpg?v=1732552870&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/0R4A8172.jpg?v=1732552870&width=1000"
+                  ],
+         "thread": "",
+         "button": "",
+         "chain": "",
+         "fabric": ""
+       },
+         { "name": "Pink",
+         "thumb": "https://silayibazi.in/cdn/shop/files/0R4A8123.jpg?v=1732552486&width=1000",
+         "images": [
+                   "https://silayibazi.in/cdn/shop/files/0R4A8123.jpg?v=1732552486&width=1000"
+                  ],
+         "thread": "",
+         "button": "",
+         "chain": "",
+         "fabric": ""
+       },
+
+       { "name": "Mauve",
+         "thumb": "https://silayibazi.in/cdn/shop/files/0R4A8190.jpg?v=1732552690&width=1000",
+         "images": [
+                   "https://silayibazi.in/cdn/shop/files/0R4A8190.jpg?v=1732552690&width=1000"
+                  ],
+         "thread": "",
+         "button": "",
+         "chain": "",
+         "fabric": ""
+       }
+
+
+
+       ] },
+
+
+
+
+ "Pant_(shrug)": { "name": "pant (shrug)","colors": [
+       { "name": "purple",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1727239633117.622.jpg?v=1727239693&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/1727239633117.622.jpg?v=1727239693&width=1000"
+                  ],
+         "thread": "110",
+         "button": "",
+         "chain": "",
+         "fabric": ""
+       },
+
+      { "name": "Indigo",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1718387452153.421.jpg?v=1718389647&width=1000",
+         "images": [
+                   "https://silayibazi.in/cdn/shop/files/1718387452153.421.jpg?v=1718389647&width=1000"
+                  ],
+         "thread": "",
+         "button": "",
+         "chain": "",
+         "fabric": ""
+       }
+
+       ] },
+
+  "Pant_(shirt)": { "name": "Pant (shirt)","colors": [
+       { "name": "indigo Blue",
+         "thumb": "https://silayibazi.in/cdn/shop/files/0R4A8233.jpg?v=1732553662&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/0R4A8233.jpg?v=1732553662&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/0R4A8244.jpg?v=1732553662&width=1000"
+                  ],
+         "thread": "",
+         "button": "",
+         "chain": "",
+         "fabric": ""
+       },
+         { "name": "pink strip",
+         "thumb": "https://silayibazi.in/cdn/shop/files/0R4A8253.jpg?v=1732553567&width=1000",
+         "images": [
+                   "https://silayibazi.in/cdn/shop/files/0R4A8253.jpg?v=1732553567&width=1000"
+                  ],
+         "thread": "",
+         "button": "",
+         "chain": "",
+         "fabric": ""
+       },
+
+       { "name": "Mauve",
+         "thumb": "https://silayibazi.in/cdn/shop/files/0R4A8190.jpg?v=1732552690&width=1000",
+         "images": [
+                   "https://silayibazi.in/cdn/shop/files/0R4A8190.jpg?v=1732552690&width=1000"
+                  ],
+         "thread": "",
+         "button": "",
+         "chain": "",
+         "fabric": ""
+       }
+
+
+       ] },
+
+
+  "Linen_trousers": { "name": "Linen trousers","colors": [
+       { "name": "Beige",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1754480654949.416.jpg?v=1754480763&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/1754480662337.882.jpg?v=1754480763&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1754480675505.879.jpg?v=1754480752&width=1000"
+                  ],
+         "thread": "03",
+         "button": "",
+         "chain": "",
+         "fabric": ""
+       },
+
+      { "name": "Black",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1754480681904.439.jpg?v=1754480798&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/1754480681904.439.jpg?v=1754480798&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1754480694620.142.jpg?v=1754480798&width=1000"
+                  ],
+         "thread": "",
+         "button": "",
+         "chain": "",
+         "fabric": ""
+       },
+
+       { "name": "White",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1754480633865.98.jpg?v=1754480826&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/1754480641467.06.jpg?v=1754480826&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1754480623616.248.jpg?v=1754480826&width=1000"
+                  ],
+         "thread": "",
+         "button": "",
+         "chain": "",
+         "fabric": ""
+       }
+
+       ] },
+
+
+
+
+"shrug": { "name": "Shrug",
+           "colors": [
+       { "name": "purple",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1718313409263.23.jpg?v=1718313519&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/1718313409263.23.jpg?v=1718313519&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1718313393944.28.jpg?v=1718313517&width=1000"
+                  ],
+         "thread": "110",
+         "button": "",
+         "chain": "",
+         "fabric": ""
+       },
+
+      { "name": "Indigo",
+         "thumb": "https://silayibazi.in/cdn/shop/files/1718313861657.159.jpg?v=1718313990&width=1000",
+         "images": ["https://silayibazi.in/cdn/shop/files/1718313861657.159.jpg?v=1718313990&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1718313912639.986.jpg?v=1718314013&width=1000"
+                  ],
+         "thread": "",
+         "button": "",
+         "chain": "",
+         "fabric": ""
+       }],
+
+  "jumpsuit": {
+    "name": "Jumpsuit",
+     "colors": [
+       {
+         "name": "Blue",
+          "thumb": "https://silayibazi.in/cdn/shop/files/0R4A8380.jpg?v=1732626933&width=1000",
+           "images": ["https://silayibazi.in/cdn/shop/files/0R4A8380.jpg?v=1732626933&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/0R4A8530.jpg?v=1732626933&width=1000"
+                  ],
+            "thread": "",
+            "button": "",
+            "chain": "",
+            "fabric": ""
+            },
+
+           {
+           "name": "Yellow",
+       "thumb": "https://silayibazi.in/cdn/shop/files/0R4A8344.jpg?v=1732626099&width=1000",
+       "images": ["https://silayibazi.in/cdn/shop/files/0R4A8344.jpg?v=1732626099&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/0R4A8340.jpg?v=1732626097&width=1000"
+                  ],
+        "thread": "",
+        "button": "",
+         "chain": "",
+          "fabric": ""
+           },
+
+           {
+           "name": "Evora",
+       "thumb": "https://silayibazi.in/cdn/shop/files/0R4A8562.jpg?v=1732627073&width=1000",
+       "images": ["https://silayibazi.in/cdn/shop/files/0R4A8562.jpg?v=1732627073&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/0R4A8569.jpg?v=1732627073&width=1000"
+                  ],
+        "thread": "",
+        "button": "",
+         "chain": "",
+          "fabric": ""
+           } ] },
+
+
+
+
+
+    "skort": {
+    "name": "Skort",
+    "colors": [
+      {
+        "name": "Mauve",
+        "thumb": "https://silayibazi.in/cdn/shop/files/0R4A7924.jpg?v=1732453312&width=1000",
+        "images": ["https://silayibazi.in/cdn/shop/files/0R4A7924.jpg?v=1732453312&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/0R4A7920.jpg?v=1732453312&width=1000"
+                  ],
+        "thread": "",
+        "button": "",
+        "chain": "",
+        "fabric": ""
+      },
+
+      {
+        "name": "Indigo",
+        "thumb": "https://silayibazi.in/cdn/shop/files/0R4A7845.jpg?v=1732451971&width=1000",
+        "images": ["https://silayibazi.in/cdn/shop/files/0R4A7845.jpg?v=1732451971&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/0R4A7854.jpg?v=1732451971&width=1000"
+                  ],
+        "thread": "",
+        "button": "",
+        "chain": "",
+        "fabric": ""
+      },
+
+      {
+        "name": "Red",
+        "thumb": "https://silayibazi.in/cdn/shop/files/0R4A7930.jpg?v=1732452829&width=1000",
+        "images": ["https://silayibazi.in/cdn/shop/files/0R4A7930.jpg?v=1732452829&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/0R4A7934.jpg?v=1732452830&width=1000"
+                  ],
+        "thread": "",
+        "button": "",
+        "chain": "",
+        "fabric": ""
+      },
+
+      {
+        "name": "Teal",
+        "thumb": "https://silayibazi.in/cdn/shop/files/0R4A7893.jpg?v=1732452711&width=1000",
+        "images": ["https://silayibazi.in/cdn/shop/files/0R4A7893.jpg?v=1732452711&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/0R4A7904.jpg?v=1732452711&width=1000"
+                  ],
+        "thread": "",
+        "button": "",
+        "chain": "",
+        "fabric": ""
+      }
+    ]}},
+
+  "jumpsuit": {
+    "name": "Jumpsuit",
+     "colors": [
+       {
+         "name": "Blue",
+          "thumb": "https://silayibazi.in/cdn/shop/files/0R4A8380.jpg?v=1732626933&width=1000",
+           "images": ["https://silayibazi.in/cdn/shop/files/0R4A8380.jpg?v=1732626933&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/0R4A8530.jpg?v=1732626933&width=1000"
+                  ],
+            "thread": "",
+            "button": "",
+            "chain": "",
+            "fabric": ""
+            },
+
+           {
+           "name": "Yellow",
+       "thumb": "https://silayibazi.in/cdn/shop/files/0R4A8344.jpg?v=1732626099&width=1000",
+       "images": ["https://silayibazi.in/cdn/shop/files/0R4A8344.jpg?v=1732626099&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/0R4A8340.jpg?v=1732626097&width=1000"
+                  ],
+        "thread": "",
+        "button": "",
+         "chain": "803",
+          "fabric": ""
+           },
+
+           {
+           "name": "Evora",
+       "thumb": "https://silayibazi.in/cdn/shop/files/0R4A8562.jpg?v=1732627073&width=1000",
+       "images": ["https://silayibazi.in/cdn/shop/files/0R4A8562.jpg?v=1732627073&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/0R4A8569.jpg?v=1732627073&width=1000"
+                  ],
+        "thread": "",
+        "button": "",
+         "chain": "851",
+          "fabric": ""
+           } ] },
+
+"skort": {
+    "name": "Skort",
+    "colors": [
+      {
+        "name": "Mauve",
+        "thumb": "https://silayibazi.in/cdn/shop/files/0R4A7924.jpg?v=1732453312&width=1000",
+        "images": ["https://silayibazi.in/cdn/shop/files/0R4A7924.jpg?v=1732453312&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/0R4A7920.jpg?v=1732453312&width=1000"
+                  ],
+        "thread": "",
+        "button": "",
+        "chain": "",
+        "fabric": ""
+      },
+
+      {
+        "name": "Indigo",
+        "thumb": "https://silayibazi.in/cdn/shop/files/0R4A7845.jpg?v=1732451971&width=1000",
+        "images": ["https://silayibazi.in/cdn/shop/files/0R4A7845.jpg?v=1732451971&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/0R4A7854.jpg?v=1732451971&width=1000"
+                  ],
+        "thread": "",
+        "button": "",
+        "chain": "",
+        "fabric": ""
+      },
+
+      {
+        "name": "Red",
+        "thumb": "https://silayibazi.in/cdn/shop/files/0R4A7930.jpg?v=1732452829&width=1000",
+        "images": ["https://silayibazi.in/cdn/shop/files/0R4A7930.jpg?v=1732452829&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/0R4A7934.jpg?v=1732452830&width=1000"
+                  ],
+        "thread": "",
+        "button": "",
+        "chain": "",
+        "fabric": ""
+      },
+
+      {
+        "name": "Teal",
+        "thumb": "https://silayibazi.in/cdn/shop/files/0R4A7893.jpg?v=1732452711&width=1000",
+        "images": ["https://silayibazi.in/cdn/shop/files/0R4A7893.jpg?v=1732452711&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/0R4A7904.jpg?v=1732452711&width=1000"
+                  ],
+        "thread": "",
+        "button": "",
+        "chain": "",
+        "fabric": ""
+      }
+    ]
+  },
+
+  "Two_lace_top": {
+    "name": "Two lace top",
+     "colors": [
+       {
+         "name": "Blue",
+          "thumb": "https://silayibazi.in/cdn/shop/files/1718726283547.28.jpg?v=1718726516&width=1000",
+           "images": ["https://silayibazi.in/cdn/shop/files/1718726283547.28.jpg?v=1718726516&width=1000"
+                  ],
+            "thread": "",
+            "button": "",
+            "chain": "",
+            "fabric": ""
+            },
+
+           {
+           "name": "Beige",
+       "thumb": "https://silayibazi.in/cdn/shop/files/1712490602064.403_e58bdc42-1364-4cfb-a0a4-877b2f5268b2.jpg?v=1713413231&width=1000",
+       "images": ["https://silayibazi.in/cdn/shop/files/1712490602064.403_e58bdc42-1364-4cfb-a0a4-877b2f5268b2.jpg?v=1713413231&width=1000",
+                   "https://silayibazi.in/cdn/shop/files/1712490590570.584_18b19920-805c-44f6-9369-f14eacaec0ca.jpg?v=1713413230&width=1000"
+                  ],
+        "thread": "",
+        "button": "",
+         "chain": "",
+          "fabric": ""
+           }]},
+
+
+"Four_lace_top": {
+    "name": "four lace top",
+     "colors": [
+       {
+         "name": "Green",
+          "thumb": "https://silayibazi.in/cdn/shop/files/1718128177868.194.jpg?v=1718128666&width=1000",
+           "images": ["https://silayibazi.in/cdn/shop/files/1718128230883.692.jpg?v=1718128909&width=1000",
+                  "https://silayibazi.in/cdn/shop/files/1718128177868.194.jpg?v=1718128666&width=1000"],
+            "thread": "",
+            "button": "",
+            "chain": "",
+            "fabric": ""
+            },
+
+           {
+           "name": "Red",
+       "thumb": "https://silayibazi.in/cdn/shop/files/1713955264571.726.jpg?v=1713955355&width=1000",
+       "images": ["https://silayibazi.in/cdn/shop/files/1713955264571.726.jpg?v=1713955355&width=1000"
+                  ],
+        "thread": "",
+        "button": "",
+         "chain": "",
+          "fabric": ""
+           }]}
+
+}

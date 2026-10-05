@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Home Page</title>
+   <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- Top Center Home Page Link -->
+  <h1><a href="index.html">Home</a></h1>
+  <hr>
+
+  <!-- Index Label -->
+  <h3><u>INDEX</u></h3>
+  <ol id="product-list" class="links"></ol>
+
+  <!-- Product Grid Section -->
+  <h3><u>PRODUCTS</u></h3>
+  <div id="product-grid" class="grid"></div>
+
+  <script>
+    fetch("products.json")
+      .then(response => response.json())
+      .then(data => {
+        const list = document.getElementById("product-list");
+        const grid = document.getElementById("product-grid");
+
+        Object.keys(data).forEach((key, index) => {
+          // -------- Text List --------
+          const li = document.createElement("li");
+          const link = document.createElement("a");
+          link.href = "product_template.html?product=" + key;
+          link.textContent = data[key].name;
+          li.appendChild(link);
+          list.appendChild(li);
+
+          // -------- Grid Card --------
+          const card = document.createElement("div");
+          card.className = "product-card";
+
+          const a = document.createElement("a");
+          a.href = "product_template.html?product=" + key;
+
+          // First color’s first image (if available)
+          if (data[key].colors && data[key].colors.length > 0) {
+            const firstColor = data[key].colors[0];
+            if (firstColor.images && firstColor.images.length > 0) {
+              const img = document.createElement("img");
+              img.src = firstColor.images[0];
+              img.alt = data[key].name;
+              a.appendChild(img);
+            }
+          }
+
+          // Caption (also inside the link)
+          const caption = document.createElement("p");
+          caption.textContent = (index + 1) + ". " + data[key].name;
+          a.appendChild(caption);
+
+          // Make the whole card clickable
+          card.appendChild(a);
+          grid.appendChild(card);
+        });
+      })
+      .catch(err => console.error("Error loading products.json", err));
+  </script>
+</body>
+</html>
